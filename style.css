@@ -2,10 +2,6 @@
 Link do tutorial: https://www.youtube.com/watch?v=Tf6qm5JMUXQ
 */
 
-@font-face {
-  font-family: overflow;
-  src: url("/Fontes/Provicali.otf");
-}
 
 body {
   display: flex;
@@ -13,7 +9,7 @@ body {
   align-items: center;
   min-height: 100vh;
   background: #212121;
-  font-family: overflow;
+  font-family: "Roboto Condensed", sans-serif;
   letter-spacing: 0.5rem;
 }
 
