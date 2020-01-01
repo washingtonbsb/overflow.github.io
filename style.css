@@ -6,7 +6,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  min-height: 80vh;
   background: #212121;
   font-family: "Roboto Condensed", sans-serif;
   letter-spacing: 0.5rem;
@@ -17,12 +17,6 @@ h2 {
   padding: 20px;
 }
 
-h2:before {
-  content: "";
-  position: absolute;
-  width: calc(100% + 4px);
-  background: red;
-}
 
 .content {
   position: relative;
