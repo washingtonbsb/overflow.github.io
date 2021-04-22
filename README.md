@@ -4,18 +4,19 @@
   Hello my name is Washington, I am <strong>Front-end Developer</strong> .<br>
   I am graduated in systems analysis, I work with front-end development since 2015.
 </p>
-
+<div>
 <p align="left">
-  💻 Skills: <strong>HTML5, CSS3, JavaScript, Vanilla JS, Angular, Ionic, ReactJS, React-native and UI/UX Design.</strong>
+  💻  &nbsp; Skills: <strong>HTML5, CSS3, JavaScript, Vanilla JS, Angular, Ionic, ReactJS, React-native and UI/UX Design.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, IntelliJ, Figma, Adobe XD, Git and GitHub.</strong>
+  💼  &nbsp; Tools: <strong>Visual Studio Code, IntelliJ, Figma, Adobe XD, Git and GitHub.</strong>
 </p>
 
 <p align="left">
-  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
+  💌  &nbsp; If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
 </p>
+</div>
 
 <p align="left">
   
