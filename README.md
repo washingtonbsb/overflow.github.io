@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/washingtonbsb/washingtonbsb/master/ilustration.jpeg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/washingtonbsb/washingtonbsb/master/ilustration.jpeg" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Hello my name is Washington, I am <strong>Front-end Developer</strong> .<br>
